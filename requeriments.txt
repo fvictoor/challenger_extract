@@ -1,3 +1,0 @@
-robotframework
-robotframework-browser
-robotframework-faker
