@@ -2,7 +2,7 @@
 
 Library    Browser
 Library    FakerLibrary
-Library    String
+Library    String 
 
 *** Variables ***
 ${URL}            http://demo.automationtesting.in/Register.html
