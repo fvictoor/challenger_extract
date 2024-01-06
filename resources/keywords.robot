@@ -15,8 +15,7 @@ Abrir navegador
     ${TITLE_PAGE}                    Get Title
     Log                              Titulo da pagina acessada: ${TITLE_PAGE}
     Take Screenshot                  EMBED    fullPage=True    timeout=${TIMEOUT} 
-
-Pouluar campos obrigatórios exeto ${CAMPO_EXCECAO}
+Popular os campos obrigatórios exeto ${CAMPO_EXCECAO}
     
     # Criar os dados Fake para Teste
     ${FIRST_NAME}            FakerLibrary.First Name
